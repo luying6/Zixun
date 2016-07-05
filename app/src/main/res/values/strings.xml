@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zixun</string>
+    <string name="main_profile_txt">我的</string>
+    <string name="main_news_text">关注</string>
+    <string name="main_essence_text">精华</string>
+    <string name="main_post_text">新帖</string>
+</resources>
